@@ -189,13 +189,13 @@ export default class Home extends Component {
   }
 
   ehIpReservado = () => {
-    if (this.state.octetOne == 0) {
+    if (parseInt(this.state.octetOne) === 0) {
       return true
     }
   }
 
   ehIpLoopBack = () => {
-    if (this.state.octetFour == 127) {
+    if (parseInt(this.state.octetFour) === 127) {
       return true
     }
   }
