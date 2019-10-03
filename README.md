@@ -1,4 +1,4 @@
-# Calculadora IP ReactJs
+# Calculadora IP ReactJS
 
 ## How to install
 
@@ -25,3 +25,11 @@ ou se preferir:
 ```javascript
 npm start
 ```
+
+## Getting Started
+
+<img align="left" width="140" height="90" src="/public/img/react_logo.png">
+
+### ReactJS
+
+O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
