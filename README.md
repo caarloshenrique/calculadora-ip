@@ -28,7 +28,7 @@ npm start
 
 ## Getting Started
 
-<img align="left" width="140" height="90" src="/public/img/React_logo.png">
+<img align="left" width="120" height="90" src="/public/img/React_logo.png">
 
 ### ReactJS
 
