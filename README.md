@@ -35,3 +35,18 @@ npm start
 ### ReactJS
 
 O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+
+## Interfaces
+
+### Home
+
+<img src="/public/img/home-page.png">
+
+### Modal
+
+<img src="/public/img/madal.png">
+
+## Outras utilizações
+
+- [Particles.js - React Component](https://www.npmjs.com/package/react-particles-js) - Background effect
+- [react-drag-drawer](https://www.npmjs.com/package/react-drag-drawer) - The Modal
