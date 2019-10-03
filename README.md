@@ -44,7 +44,7 @@ O React é uma biblioteca JavaScript de código aberto com foco em criar interfa
 
 ### Modal
 
-<img src="/public/img/madal.png">
+<img src="/public/img/modal.png">
 
 ## Outras utilizações
 
