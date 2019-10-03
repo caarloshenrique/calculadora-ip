@@ -1,5 +1,7 @@
 # Calculadora IP ReactJS
 
+:bulb: Uma calculadora de endereçamento IP desenvolvida a partir da biblioteca ReactJS.
+
 ## How to install
 
 1. Abrir o diretório principal do projeto, digitando no terminal/powershell:
