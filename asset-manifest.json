@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/calculadora-ip/static/js/main.3b1e35a8.chunk.js",
+    "main.js.map": "/calculadora-ip/static/js/main.3b1e35a8.chunk.js.map",
+    "runtime-main.js": "/calculadora-ip/static/js/runtime-main.705d5b76.js",
+    "runtime-main.js.map": "/calculadora-ip/static/js/runtime-main.705d5b76.js.map",
+    "static/js/2.b3bb87ca.chunk.js": "/calculadora-ip/static/js/2.b3bb87ca.chunk.js",
+    "static/js/2.b3bb87ca.chunk.js.map": "/calculadora-ip/static/js/2.b3bb87ca.chunk.js.map",
+    "index.html": "/calculadora-ip/index.html",
+    "precache-manifest.9cf7cc126a67bb6d4bc1f352c70a3dc8.js": "/calculadora-ip/precache-manifest.9cf7cc126a67bb6d4bc1f352c70a3dc8.js",
+    "service-worker.js": "/calculadora-ip/service-worker.js"
+  }
+}
