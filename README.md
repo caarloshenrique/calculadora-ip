@@ -36,7 +36,7 @@ npm start
 
 O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
-## Interfaces
+## :computer: Interfaces
 
 ### Home
 
@@ -46,11 +46,11 @@ O React é uma biblioteca JavaScript de código aberto com foco em criar interfa
 
 <img src="/public/img/modal.png">
 
-## Demonstração
+## :arrow_forward: Demonstração
 
 <img src="/public/img/demonstration.gif">
 
-## Outras utilizações
+## :speech_balloon: Outras utilizações
 
 - [Particles.js - React Component](https://www.npmjs.com/package/react-particles-js) - Background animation
 - [react-drag-drawer](https://www.npmjs.com/package/react-drag-drawer) - The Modal
