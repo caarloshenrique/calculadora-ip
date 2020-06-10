@@ -2,6 +2,10 @@
 
 :bulb: Uma calculadora de endereçamento IP desenvolvida a partir da biblioteca ReactJS.
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+
 ## How to install
 
 1. Abrir o diretório principal do projeto, digitando no terminal/powershell:
